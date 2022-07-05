@@ -1,2 +1,2 @@
 # Abolish the monarchy
- Supplemental information for "Abolish the monarchy: key adaptation subjugates the Red Queen"
+ Supplemental information for "Abolish the monarchy: key adaptation subjugates the Red Queen". This analysis builds heavily off of the previous publication Lowery and Fraass (2019) and the code found [here](https://github.com/Fraass/Test-Complexity "Test Complexity"), to the point that this repository is largely a mirror of the previous.
