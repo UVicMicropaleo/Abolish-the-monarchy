@@ -1,0 +1,96 @@
+Interval,early,late,All Durations,Durations not near 10,Durations near 10 myr
+Holocene,0.0117,0,0.0117,0.0117,
+Pleistocene (Ple),2.588,0.0117,2.5763,2.5763,
+Pliocene (Pli),5.333,2.588,2.745,2.745,
+Miocene (Mio),23.03,5.333,17.697,17.697,
+Oligocene (Ol),33.9,23.03,10.87,,10.87
+Eocene (Eo),56,33.9,22.1,22.1,
+Paleocene (Pal),66,56,10,,10
+Maastrichtian,72.1,66,6.1,6.1,
+Campanian,83.6,72.1,11.5,,11.5
+Santonian,86.3,83.6,2.7,2.7,
+Coniacian,89.8,86.3,3.5,3.5,
+Turonian,93.9,89.8,4.1,4.1,
+Cenomanian,100.5,93.9,6.6,6.6,
+Albian,113,100.5,12.5,,12.5
+Aptian,125,113,12,,12
+Barremian,129.4,125,4.4,4.4,
+Hauterivian,132.9,129.4,3.5,3.5,
+Valanginian,139.8,132.9,6.9,6.9,
+Berriasian,145,139.8,5.2,5.2,
+Tithonian,152.1,145,7.1,7.1,
+Kimmeridgian,157.3,152.1,5.2,5.2,
+Oxfordian,163.5,157.3,6.2,6.2,
+Callovian,166.1,163.5,2.6,2.6,
+Bathonian,168.3,166.1,2.2,2.2,
+Bajocian,170.3,168.3,2,2,
+Aalenian,174.1,170.3,3.8,3.8,
+Toarcian,182.7,174.1,8.6,,8.6
+Pliensbachian,190.8,182.7,8.1,,8.1
+Sinemurian,199.3,190.8,8.5,8.5,
+Hettangian,201.3,199.3,2,2,
+Rhaetian,208.5,201.3,7.2,7.2,
+Norian,227,208.5,18.5,18.5,
+Carnian,237,227,10,10,
+Ladinian,242,237,5,5,
+Anisian,247.2,242,5.2,5.2,
+Olenekian,251.2,247.2,4,4,
+Induan,251.902,251.2,0.702,0.702,
+Lopingian,259.1,251.902,7.198,7.198,
+Changhsingian,254.14,251.902,2.238,2.238,
+Wuchiapingian,259.1,254.14,4.96,4.96,
+Guadalupian,272.95,259.1,13.85,13.85,
+Capitanian,265.1,259.1,6,6,
+Wordian,268.8,265.1,3.7,3.7,
+Roadian,272.95,268.8,4.15,4.15,
+Cisuralian,298.9,272.95,25.95,25.95,
+Kungurian,283.5,272.95,10.55,,10.55
+Artinskian,290.1,283.5,6.6,6.6,
+Sakmarian,295,290.1,4.9,4.9,
+Asselian,298.9,295,3.9,3.9,
+Gzhelian,303.7,298.9,4.8,4.8,
+Kasimovian,307,303.7,3.3,3.3,
+Moscovian,315.2,307,8.2,,8.2
+Bashkirian,323.2,315.2,8,,8
+Serpukhovian,330.9,323.2,7.7,7.7,
+Visean,346.7,330.9,15.8,15.8,
+Tournaisian,358.9,346.7,12.2,,12.2
+Famennian,372.2,358.9,13.3,13.3,
+Frasnian,382.7,372.2,10.5,,10.5
+Givetian,387.7,382.7,5,5,
+Eifelian,393.3,387.7,5.6,5.6,
+Emsian,407.6,393.3,14.3,14.3,
+Pragian,410.8,407.6,3.2,3.2,
+Lochkovian,419.2,410.8,8.4,,8.4
+Pridoli,423,419.2,3.8,3.8,
+Ludlow,427.4,423,4.4,4.4,
+Ludfordian,425.6,423,2.6,2.6,
+Gorstian,427.4,425.6,1.8,1.8,
+Wenlock,433.4,427.4,6,6,
+Homerian,430.5,427.4,3.1,3.1,
+Sheinwoodian,433.4,430.5,2.9,2.9,
+Llandovery,443.8,433.4,10.4,,10.4
+Telychian,438.5,433.4,5.1,5.1,
+Aeronian,440.8,438.5,2.3,2.3,
+Rhuddanian,443.8,440.8,3,3,
+Hirnantian,445.2,443.8,1.4,1.4,
+Katian,453,445.2,7.8,7.8,
+Sandbian,458.4,453,5.4,5.4,
+Darriwilian,467.3,458.4,8.9,,8.9
+Dapingian,470,467.3,2.7,2.7,
+Floian,477.7,470,7.7,7.7,
+Tremadocian,485.4,477.7,7.7,7.7,
+Furongian,497,485.4,11.6,,11.6
+Stage 10,489.5,485.4,4.1,4.1,
+Jiangshanian,494,489.5,4.5,4.5,
+Paibian,497,494,3,3,
+Miaolingian,509,497,12,12,
+Guzhangian,500.5,497,3.5,3.5,
+Drumian,504.5,500.5,4,4,
+Wuliuan,509,504.5,4.5,4.5,
+Series 2,521,509,12,,12
+Stage 4,514,509,5,5,
+Stage 3,521,514,7,7,
+Terreneuvian,541,521,20,20,
+Stage 2,529,521,8,8,
+Fortunian,541,529,12,,12
